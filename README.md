@@ -16,7 +16,7 @@ The “[1994 United States Census Income](https://archive.ics.uci.edu/ml/dataset
 - Data retrieval
 - Data preparation (cleansing the data)
 - Data exploration (generating visualisations from data / exploring relationships between attributes)
-- Data modelling (**applying Machine Learning techniques** to produce models with good predictive power)
+- Data modelling (**applying Machine Learning techniques** to produce models with good predictive power for answering research questions)
 - Presentation and automation
 
 #### Links to (hosted on GitHub):
