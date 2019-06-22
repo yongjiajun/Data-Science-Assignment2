@@ -1,6 +1,6 @@
-#### Income Prediction based on 1994 United States Census Data: 
+### Income Prediction based on 1994 United States Census Data: 
 
-#### Determining Whether a Person Earns over $50k using Classification Methods
+### Determining Whether a Person Earns over $50k using Classification Methods
 
 ###### Project for Practical Data Science Assignment 2 [35/35 marks], RMIT University 2019
 
@@ -14,7 +14,7 @@ The “[1994 United States Census Income](https://archive.ics.uci.edu/ml/dataset
 
 
 
-##### Links to (hosted on GitHub):
+#### Links to (hosted on GitHub):
 
 [Report](https://github.com/yongjiajun/Income-Prediction-DataSci/blob/master/report.pdf)
 
@@ -26,7 +26,7 @@ The “[1994 United States Census Income](https://archive.ics.uci.edu/ml/dataset
 
 
 
-##### Contributors:
+#### Contributors:
 
 [Jia Jun Yong](https://github.com/yongjiajun/)
 
